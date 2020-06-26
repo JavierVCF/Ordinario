@@ -1,0 +1,17 @@
+let
+	float a,b,c,d,e.
+in
+	d:=0;
+	read a;
+	e:=a;
+	while a>1 do 
+	if e=a then b:=a-1; c:=a*b; else b:=a-1; c:=c*b; fi;
+	
+	 
+	a:=a-1;
+	
+	end;
+	write c;
+	skip;
+	
+end

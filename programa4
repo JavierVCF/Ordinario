@@ -1,0 +1,11 @@
+let
+	float a,b,c.
+in
+	read a;
+	read b;
+	a:= a*a;
+	b:= b*b;
+	c:= a+b;
+	write c;
+
+end
